@@ -62,6 +62,7 @@ $ ls -la ~/projects/
 
 | Project | Description | Stack |
 |---|---|---|
+| [**ModelDeck**](https://github.com/tommasinigiovanni/ModelDeck) | A native macOS dashboard for your Mac, local LLMs, and Claude Code / Codex subscription quotas. |
 | [**conclave**](https://github.com/tommasinigiovanni/conclave) | Open-source multi-LLM debate orchestrator — synthesizes superior answers via anonymous AI debate | FastAPI · PostgreSQL · Docker |
 
 ---
