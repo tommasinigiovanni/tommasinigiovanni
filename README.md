@@ -1,6 +1,8 @@
-# Hi 👋, I'm Giovanni
+# Giovanni Tommasini
 
-### Enthusiastic Seeker · Telco DevOps Expert · AI Builder
+**Pensiero chiaro. Tecnologia utile.**
+
+I build software and automations for real work, and bring production experience into AI training.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giovannitommasini/" target="_blank">
@@ -26,12 +28,12 @@
 $ whoami
 ```
 
-- 🏢 **CTO** @ [AI Fabric](https://aifabric.it) — ITSM AI innovation with YoDa
-- 🌱 **CTO & Co-founder** @ [evoseed](https://evoseed.io) — making ideas grow
-- 🤖 Building **[Conclave](https://github.com/tommasinigiovanni/conclave)** — open-source multi-LLM debate orchestrator (Apache 2.0)
-- 🎙️ Co-host of **[Uno Nessuno Centomil AI](https://www.youtube.com/playlist?list=PLQ0W8k5IRhFmVNod8iZyibqrtK5muAKs9)** — AI podcast
-- 📍 Based in **Italy**
-- 💬 Languages: Italian 🇮🇹 (Native), English 🇬🇧 (Professional)
+- **CTO** at [AI Fabric](https://aifabric.it), working on YoDa for business process automation.
+- **Co-founder & CTO** at [evoseed](https://evoseed.io), building software and network automation.
+- Building **[Conclave](https://github.com/tommasinigiovanni/conclave)**, an open-source multi-LLM debate orchestrator (Apache 2.0).
+- Co-host of **[Uno Nessuno Centomil AI](https://www.youtube.com/playlist?list=PLQ0W8k5IRhFmVNod8iZyibqrtK5muAKs9)**, an AI podcast.
+- Based in **Italy**
+- Languages: Italian (Native), English (Professional)
 
 ---
 
@@ -58,12 +60,13 @@ $ cat skills.txt
 $ ls -la ~/projects/
 ```
 
-### 🔥 Featured
+### Featured
 
 | Project | Description | Stack |
 |---|---|---|
-| [**ModelDeck**](https://github.com/tommasinigiovanni/ModelDeck) | A native macOS dashboard for your Mac, local LLMs, and Claude Code / Codex subscription quotas. |
-| [**conclave**](https://github.com/tommasinigiovanni/conclave) | Open-source multi-LLM debate orchestrator — synthesizes superior answers via anonymous AI debate | FastAPI · PostgreSQL · Docker |
+| [**VoiceDeck**](https://github.com/tommasinigiovanni/VoiceDeck) | Native macOS transcription editor: local Parakeet v3 or Nemotron on OpenRouter, speaker labels, audio playback and editable transcripts. | SwiftUI · Core ML · OpenRouter |
+| [**ModelDeck**](https://github.com/tommasinigiovanni/ModelDeck) | Native macOS dashboard for system resources, local AI models, and Claude Code / Codex subscription quotas. | SwiftUI · Swift Charts |
+| [**Conclave**](https://github.com/tommasinigiovanni/conclave) | Open-source orchestrator for multi-LLM debates. | FastAPI · PostgreSQL · Docker |
 
 ---
 
@@ -71,16 +74,15 @@ $ ls -la ~/projects/
 $ cat podcast.txt
 ```
 
-### 🎙️ Uno Nessuno Centomil AI
+### Uno Nessuno Centomil AI
 
 Un podcast in cui esploro il futuro dell'AI e il suo impatto sulla vita reale, insieme a Federico e Sofia (la nostra assistente virtuale).
 
-[▶ YouTube](https://www.youtube.com/playlist?list=PLQ0W8k5IRhFmVNod8iZyibqrtK5muAKs9) · [🎧 Spotify](https://www.youtube.com/playlist?list=PLQ0W8k5IRhFmVNod8iZyibqrtK5muAKs9)
+[YouTube](https://www.youtube.com/playlist?list=PLQ0W8k5IRhFmVNod8iZyibqrtK5muAKs9)
 
 ---
 
 ```bash
-$ echo "INSERT COIN TO COLLABORATE"
+$ cat contact.txt
 ```
-
-📫 **tommasini.giovanni@gmail.com**
+**tommasini.giovanni@gmail.com**
